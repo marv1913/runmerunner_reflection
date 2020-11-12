@@ -11,6 +11,6 @@ This command line application uses reflection to show all declared methods of a 
 
 ## Usage
 java -jar  runmerunner-marvEn-jar-with-dependencies.jar [java class name]
-e.g.:
 
+e.g.:
 java -jar  runmerunner-marvEn-jar-with-dependencies.jar java.lang.String
